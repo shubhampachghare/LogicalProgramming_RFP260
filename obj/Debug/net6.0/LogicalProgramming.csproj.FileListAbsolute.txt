@@ -1,0 +1,15 @@
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\obj\Debug\net6.0\LogicalProgramming.csproj.AssemblyReference.cache
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\obj\Debug\net6.0\LogicalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\obj\Debug\net6.0\LogicalProgramming.AssemblyInfoInputs.cache
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\obj\Debug\net6.0\LogicalProgramming.AssemblyInfo.cs
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\obj\Debug\net6.0\LogicalProgramming.csproj.CoreCompileInputs.cache
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\bin\Debug\net6.0\LogicalProgramming.exe
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\bin\Debug\net6.0\LogicalProgramming.deps.json
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\bin\Debug\net6.0\LogicalProgramming.runtimeconfig.json
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\bin\Debug\net6.0\LogicalProgramming.dll
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\bin\Debug\net6.0\LogicalProgramming.pdb
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\obj\Debug\net6.0\LogicalProgramming.dll
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\obj\Debug\net6.0\refint\LogicalProgramming.dll
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\obj\Debug\net6.0\LogicalProgramming.pdb
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\obj\Debug\net6.0\LogicalProgramming.genruntimeconfig.cache
+C:\RFP-260\Logical\LogicalProgramming\LogicalProgramming\obj\Debug\net6.0\ref\LogicalProgramming.dll
